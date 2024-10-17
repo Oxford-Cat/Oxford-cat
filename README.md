@@ -1,9 +1,9 @@
-# Hi, I'm Fatima! 
+# 👋 Hi, I'm Fatima! 
 
 👩🏻‍💻 CSE student, Tech blogger <br/>
 👩🏻‍🎓 Studying Computer Science at BRAC University <br/>
-💭 Currectly learning about Machine Learninig and cloud <br/>
-🌷 Read my blogs at [Hashnode](https://mahia.hashnode.dev) <br/> 
+🌱 I’m currently learning Machine Learning and AWS <br/>
+📝 I regularly write articles on [Hashnode](https://mahia.hashnode.dev) <br/> 
 
 <!--
 <h3 align="left">Connect with me:</h3>
@@ -22,8 +22,6 @@
 ![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oxford-cat&show_icons=true&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=Oxford-cat&icon=0&color=0)](https://visitcount.itsvg.in) 
-
-
 
 
 
