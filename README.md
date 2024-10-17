@@ -1,7 +1,7 @@
 # Hi, I'm Fatima! 
 
 👩🏻‍💻 CSE student, Tech blogger <br/>
-👩🏻‍🎓 Studying Computer Science at BRAC University, Bangladesh <br/>
+👩🏻‍🎓 Studying Computer Science at BRAC University <br/>
 💭 Currectly learning about Machine Learninig and cloud <br/>
 🌷 Read my blogs at [Hashnode](https://mahia.hashnode.dev) <br/> 
 
